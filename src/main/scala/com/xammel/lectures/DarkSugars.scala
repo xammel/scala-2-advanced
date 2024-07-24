@@ -98,6 +98,4 @@ object DarkSugars {
   val aMutableContainer = new Mutable
   aMutableContainer.member = 42 // rewritten as aMutableContainer.member_=(42)
 
-  def main(args: Array[String]): Unit = {}
-
 }
