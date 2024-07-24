@@ -1,4 +1,4 @@
-package com.xammel.lectures
+package com.xammel.lectures.advancedscala
 
 import scala.util.Try
 
